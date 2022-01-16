@@ -1,0 +1,9 @@
+Projekt z terchniki mikroprocesorowej
+
+Opis projektu
+Projekt jest realizowany na arduino uno. Polega na stworzeniu kodu na arduino, który pozwoli grać melodie za pomocą buzzera. Moim przykładową melodia jest dzwonek 
+firmy nokia.
+
+Potrzebne elementy:
+- płytka arduino uno
+- buzzer
