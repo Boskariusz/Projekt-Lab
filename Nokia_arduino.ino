@@ -35,7 +35,8 @@ int k = sizeof(melodia) / sizeof(melodia[0]) / 2;
 
 int ck = (60000 * 4) / tempo;
 
-int d = 0, nd = 0;
+int d = 0;
+int nd = 0;
 
 void setup() {
   for (int t = 0; t < k * 2; t = t + 2) {
