@@ -1,3 +1,5 @@
+Oskar Diering EiT SiSt
+
 Projekt buzzera oparty o płytkę Arduino Uno
 
 Opis projektu
