@@ -4,7 +4,7 @@ Projekt buzzera oparty o płytkę Arduino Uno
 
 Opis projektu
 Polega na stworzeniu kodu na arduino, który pozwoli grać melodie za pomocą buzzera. Moim przykładową melodia jest dzwonek 
-firmy nokia.
+telefonu nokia.
 
 Potrzebne elementy:
 - płytka arduino uno
