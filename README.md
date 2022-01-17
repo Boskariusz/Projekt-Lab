@@ -9,5 +9,7 @@ Potrzebne elementy:
 - buzzer
 
 Linki do elementów:
-https://allegro.pl/oferta/pasywny-buzzer-5v-arduino-raspberry-10546083554
-https://allegro.pl/oferta/zestaw-edukacyjny-s-arduino-uno-starter-prezent-11397221123
+- https://allegro.pl/oferta/pasywny-buzzer-5v-arduino-raspberry-10546083554
+- ttps://allegro.pl/oferta/zestaw-edukacyjny-s-arduino-uno-starter-prezent-11397221123
+
+
