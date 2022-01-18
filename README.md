@@ -1,16 +1,16 @@
-Oskar Diering EiT SiSt
+#Oskar Diering EiT SiSt
 
-Projekt buzzera oparty o płytkę Arduino Uno
+#Projekt buzzera oparty o płytkę Arduino Uno
 
-Opis projektu
+#Opis projektu
 Polega na stworzeniu kodu na arduino, który pozwoli grać melodie za pomocą buzzera. Moim przykładową melodia jest dzwonek 
 telefonu nokia.
 
-Potrzebne elementy:
+#Potrzebne elementy:
 - płytka arduino uno
 - buzzer
 
-Linki do elementów:
+#Linki do elementów:
 - https://allegro.pl/oferta/pasywny-buzzer-5v-arduino-raspberry-10546083554
 - https://allegro.pl/oferta/zestaw-edukacyjny-s-arduino-uno-starter-prezent-11397221123
 
